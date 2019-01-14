@@ -1,0 +1,12 @@
+Movie Title                                  Genre
+========================================     ==========
+Arrival                                      Sci-Fi
+Allied                                       Drama/Thriller
+A United Kingdom                             Drama/Romance
+Bad Santa 2                                  Comedy
+Doctor Strange                               Fantasy/Sci-Fi
+Fantastic Beasts and Where to Find Them      Fantasy
+Moana                                        Fantasy
+Rouge One: A Star Wars Story                 Sci-Fi/Action
+The Accountant                               Crime
+Trolls                                       Fantasy
